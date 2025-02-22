@@ -1,106 +1,19 @@
-.header{
-    background-color:rgba(255, 255, 255, 0.242);
-    text-transform: uppercase;
-    font-weight: 30px ;
-    text-align: center;
-    color: #ee90ee;
-    padding: 20px 20px;
-    
-    
-}
-.header:hover{
-    background-color: rgba(171, 184, 185, 0.21);
-}
-#loginpart{
-
-    align-content: center;
-
-    box-shadow: 10px 10px  rgba(10, 7, 9, 0.2); 
-    padding: 20px;
-    margin-left: 35%;
-    
-    background-color: rgba(255, 255, 255, 0.053);
-    width: 300px;
-    height: auto;
-    box-shadow:  5px;
-
-}
-input{
-    padding: 10px;
-    width: 200px;
-    border: 10px;
-    background-color: rgba(255, 255, 255, 0.833);
-}
-body{  
-      background-image:url(../images/558061c55f8e9c45bcbbb517475dd57b.jpg);
-      background-size: cover; 
-      text-align: center;
-      justify-content: center;
-    
-               
-}
-#username{
-    height: 30px;
-    outline: none;
-    width: 200px;
-}
-#password{
-    height: 30px;
-    outline: none;
-    width: 200px;
-}
-
-
-label{
-   margin-right: 5%;
-    color: rgb(255, 255, 255);
-    font-family:  serif;
-    font-weight: bold;
-    
-}
-h2:hover{
-    background-color: rgba(171, 184, 185, 0.21) ;
-}
-
-#loginpart:hover{
-background-color: rgba(171, 184, 185, 0.21);
-}
-button:hover{
-    background-color: rgb(127, 236, 255);
+.admin-moves{
+    background-color: transparent;
+    border: 3px solid black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-right: 5px;
     cursor: pointer;
-  
+    
+}.reset-button{
+        padding: 7px 10px;
+        
+        cursor: pointer;
     
 }
-h2{
-    font-weight: 400;
-    color: #FF00FF;
-    background-color:  rgba(171, 184, 185, 0.60);;
-    padding: 8px 8px;
-    
-}
-.foot{
-    text-decoration: none;
-    margin-top: 5px;
-    padding-top: 10px;
-    font-weight: bold;
-    font-size: 27px;
-    font-family:  system-ui;
-    color: #ffea00;
-}
-button{
-padding: 8px 8px;
-height: 10%;
-width: 60%;
-margin-bottom: 1%;
-background-color: #FF00FF;
-border: none;
 
-}
-#message{
-    margin-top: 5px;
-    color: red;
-}
-a{
-    text-decoration:  none;
-    color:rgb(127, 236, 255);
-}
+
+
+
